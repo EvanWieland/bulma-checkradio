@@ -1,25 +1,23 @@
 {
-  "name": "bulma-checkradio",
-  "version": "0.0.9",
-  "description": "Make classic checkbox and radio more sexy in different colors, sizes, and states ",
+  "name": "bulma-checkradio-compiled",
+  "version": "1.0.0",
+  "description": "A compiled version of bulma checkradio.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wikiki/bulma-checkradio.git"
+    "url": "git+https://github.com/EvanWieland/bulma-checkradio.git"
   },
   "keywords": [
-    "Bulma",
     "bulma",
-    "extensions",
-    "bulma.io"
+    "checkradio"
   ],
-  "author": "Wikiki <wikiki@protonmail.com> (https://wikiki.github.io/bulma-extensions/overview)",
+  "author": "Evan Wieland",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Wikiki/bulma-checkradio/issues"
+    "url": "https://github.com/EvanWieland/bulma-checkradio/issues"
   },
-  "homepage": "https://github.com/Wikiki/bulma-checkradio#readme"
+  "homepage": "https://github.com/EvanWieland/bulma-checkradio#readme"
 }
